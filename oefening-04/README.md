@@ -12,3 +12,6 @@
  - Zoek minstens 3 endpoints op van de API.
 
  *Schrijf hier de 3 endpoints op.*
+ Home assistent: http://localhost:8123/
+ OpenHab api: http://openhab.local:8080/rest/
+ Domoticz API: http://domoticz.local:8080/json.htm

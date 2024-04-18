@@ -14,9 +14,10 @@ Tijdens dit labo leer je
  - [API: News API](https://newsapi.org)
  - endpoint: /top-headlines
 
----
+https://newsapi.org/top-headlines?aa250809e70e4dbf800324755a52ba5e
 
-1. Maak een nieuw verzoek naar de API.
+1. Maak een nieuw verzoek naar de API.key
 2. Gebruik de endpoint /top-headlines.
 3. Voeg een X-Api-Key header toe met je API-sleutel.
 4. Voer het verzoek uit en bekijk de respons.
+![alt text](image.png)
