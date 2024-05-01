@@ -20,4 +20,4 @@ https://newsapi.org/top-headlines?aa250809e70e4dbf800324755a52ba5e
 2. Gebruik de endpoint /top-headlines.
 3. Voeg een X-Api-Key header toe met je API-sleutel.
 4. Voer het verzoek uit en bekijk de respons.
-![alt text](image.png)
+![alt text]![alt text](image-1.png)
